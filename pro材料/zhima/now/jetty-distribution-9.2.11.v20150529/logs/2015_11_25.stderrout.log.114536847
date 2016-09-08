@@ -1,0 +1,9 @@
+2015-11-25 19:42:02.371:INFO:oejs.Server:main: jetty-9.2.11.v20150529
+2015-11-25 19:42:02.389:INFO:oejdp.ScanningAppProvider:main: Deployment monitor [file:/home/fit508/software/rubis/jetty-distribution-9.2.11.v20150529/webapps/] at interval 1
+2015-11-25 19:42:04.554:INFO:oejsh.ContextHandler:main: Started o.e.j.w.WebAppContext@6aeb9d0{/,file:/home/fit508/software/rubis/jetty-distribution-9.2.11.v20150529/webapps/root/,AVAILABLE}{/root}
+2015-11-25 19:42:05.424:INFO:oejsh.ContextHandler:main: Started o.e.j.w.WebAppContext@6d86a830{/rubis_servlets,file:/home/fit508/software/rubis/jetty-distribution-9.2.11.v20150529/webapps/rubis_servlets/,AVAILABLE}{/rubis_servlets}
+2015-11-25 19:42:05.474:INFO:oejs.ServerConnector:main: Started ServerConnector@3b7cb2ef{HTTP/1.1}{0.0.0.0:8081}
+2015-11-25 19:42:05.474:INFO:oejs.Server:main: Started @6580ms
+2015-11-25 19:44:29.545:INFO:oejs.ServerConnector:Thread-1: Stopped ServerConnector@3b7cb2ef{HTTP/1.1}{0.0.0.0:8081}
+2015-11-25 19:44:29.577:INFO:oejsh.ContextHandler:Thread-1: Stopped o.e.j.w.WebAppContext@6d86a830{/rubis_servlets,file:/home/fit508/software/rubis/jetty-distribution-9.2.11.v20150529/webapps/rubis_servlets/,UNAVAILABLE}{/rubis_servlets}
+2015-11-25 19:44:29.580:INFO:oejsh.ContextHandler:Thread-1: Stopped o.e.j.w.WebAppContext@6aeb9d0{/,file:/home/fit508/software/rubis/jetty-distribution-9.2.11.v20150529/webapps/root/,UNAVAILABLE}{/root}

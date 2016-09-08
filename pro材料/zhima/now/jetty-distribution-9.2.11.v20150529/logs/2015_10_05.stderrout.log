@@ -1,0 +1,6 @@
+2015-10-05 15:32:01.184:INFO:oejs.Server:main: jetty-9.2.11.v20150529
+2015-10-05 15:32:01.275:INFO:oejdp.ScanningAppProvider:main: Deployment monitor [file:/home/fit508/software/rubis/jetty-distribution-9.2.11.v20150529/webapps/] at interval 1
+2015-10-05 15:32:04.868:INFO:oejsh.ContextHandler:main: Started o.e.j.w.WebAppContext@313dd04a{/,file:/home/fit508/software/rubis/jetty-distribution-9.2.11.v20150529/webapps/root/,AVAILABLE}{/root}
+2015-10-05 15:32:06.527:INFO:oejsh.ContextHandler:main: Started o.e.j.w.WebAppContext@13d1711b{/rubis_servlets,file:/home/fit508/software/rubis/jetty-distribution-9.2.11.v20150529/webapps/rubis_servlets/,AVAILABLE}{/rubis_servlets}
+2015-10-05 15:32:06.593:INFO:oejs.ServerConnector:main: Started ServerConnector@63017675{HTTP/1.1}{0.0.0.0:8081}
+2015-10-05 15:32:06.593:INFO:oejs.Server:main: Started @10116ms
